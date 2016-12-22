@@ -1,0 +1,21 @@
+
+#Sample Utterances
+
+WhatsMyCityIntent what's my favorite city
+WhatsMyCityIntent what is my favorite city
+WhatsMyCityIntent what's my city
+WhatsMyCityIntent what is my city
+WhatsMyCityIntent my city
+WhatsMyCityIntent my favorite city
+WhatsMyCityIntent get my city
+WhatsMyCityIntent get my favorite city
+WhatsMyCityIntent give me my favorite city
+WhatsMyCityIntent give me my city
+WhatsMyCityIntent what my city is
+WhatsMyCityIntent what my favorite city is
+WhatsMyCityIntent yes
+WhatsMyCityIntent yup
+WhatsMyCityIntent sure
+WhatsMyCityIntent yes please
+MyCityIsIntent my favorite city is {city}
+
